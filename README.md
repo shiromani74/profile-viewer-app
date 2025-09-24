@@ -148,7 +148,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 🙋‍♂️ Author
 
-**Prashanth Mutluru**  
-GitHub: https://github.com/Mutluru-Prashanth
+**Rasipogula NagaShiromani**  
+GitHub: https://github.com/shiromani74
 
 >>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
